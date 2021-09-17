@@ -1,0 +1,21 @@
+img {
+    width: 40%;
+    height: 40%;
+}
+
+
+
+
+.links {
+    display: "flex";
+    justify-content: "space-around";
+    background-color: white;
+}
+
+
+
+a {
+    text-decoration: none;
+    color: blue;
+
+}
